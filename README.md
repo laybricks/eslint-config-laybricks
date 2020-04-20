@@ -1,4 +1,4 @@
-# ESLINT-CONFIG-LAYBRICKS
+# eslint-config-laybricks
 
 ## How to set
 
