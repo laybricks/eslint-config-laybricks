@@ -2,7 +2,7 @@
 
 ## How to set
 
-1. Add following line to `.vscode/setting.json` file
+1. Add following line to `.vscode/settings.json` file
 
 ```json
 {
